@@ -1,0 +1,11 @@
+D:\3 курс\ОС\Леша\Лаба3\Rotating\bin\Debug\Rotating.exe.config
+D:\3 курс\ОС\Леша\Лаба3\Rotating\bin\Debug\Rotating.exe
+D:\3 курс\ОС\Леша\Лаба3\Rotating\bin\Debug\Rotating.pdb
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.csprojAssemblyReference.cache
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.Form1.resources
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.Properties.Resources.resources
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.csproj.GenerateResource.cache
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.csproj.CoreCompileInputs.cache
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.exe
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.pdb
+D:\3 курс\ОС\Леша\Лаба3\Rotating\obj\Debug\Rotating.Form2.resources
